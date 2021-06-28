@@ -1,21 +1,17 @@
+import React from 'react';
+
+class StartScreenComponent extends React.Component{
 
 
+    render() {
+        return(
+         <div class="Container">
+             <h3>StartScreen Component</h3>
+         </div>
+        )
+}
 
-// class StartScreenComponent extends React.Component{
-
-//     constructor(props) {
-//         super(props)
-//     }
-//     render() {
-//     <StartScreen />,
-//     document.getElementById('root')
-// }
-
-// };
+};
 
 
-// function StartScreen() {
-//     return(
-         
-//     );
-// }
+export default StartScreenComponent;
