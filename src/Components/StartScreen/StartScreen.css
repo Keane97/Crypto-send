@@ -1,0 +1,68 @@
+.Container {
+  position: relative;
+  width: 375px;
+  height: 812px;
+  background: #ffffff;
+}
+
+.Logo {
+  margin: auto;
+  position: absolute;
+  width: 164px;
+  height: 166px;
+  left: 105px;
+  top: 75px;
+}
+
+.TitleText {
+  margin: auto;
+  position: absolute;
+  width: 375px;
+  height: 33px;
+  left: 0px;
+  top: 264px;
+
+  /* Title Onboarding - 25SB */
+
+  font-family: RawlineSemiBold;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+
+  /* Dark/Color/Main Secondary */
+
+  color: #646464;
+}
+
+.DescriptionText {
+  margin: auto;
+  position: absolute;
+  width: 293px;
+  height: 71px;
+  left: 35px;
+  top: 308px;
+
+  /* Main - 15M */
+
+  font-family: Rawline;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 21px;
+  /* or 140% */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.ConnectToWalletButton button {
+  position: absolute;
+  width: 343px;
+  height: 44px;
+  left: calc(50% - 343px / 2);
+  top: 406px;
+
+  background-color: #f15a29;
+  border-radius: 21.5px;
+}
