@@ -1,0 +1,91 @@
+.Container {
+  position: relative;
+  width: 375px;
+  height: 812px;
+  /* background: #c2adad; */
+}
+
+.BackButton_Section {
+  position: absolute;
+  width: 48px;
+  height: 65px;
+  left: 0px;
+  top: 43px;
+}
+
+
+
+.Title {
+  position: absolute;
+  width: 168px;
+  height: 36px;
+  left: calc(50% - 168px / 2 + 17.5px);
+  top: 57px;
+}
+
+.Title p {
+  /* Address Book */
+
+
+position: absolute;
+height: 25px;
+left: 4.17%;
+right: 26.79%;
+top: 6px;
+
+/* Title Header - 18M */
+
+font-family: Rawline;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+text-align: right;
+
+/* Colour/Main */
+
+color: #495162;
+}
+
+.Contacts {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 119px;
+  bottom: 0px;
+}
+
+.New_Contact {
+  /* Chat/Contact */
+
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 24px;
+  top: 24px;
+}
+
+.New_Contact_text p{
+  /* New Contact */
+
+
+position: absolute;
+height: 24px;
+left: 87px;
+right: -1px;
+top: calc(50% - 24px/2 - 1px);
+
+/* Title Header - 18M */
+
+font-family: Rawline;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+
+/* Colour/Main */
+
+color: #495162;
+}

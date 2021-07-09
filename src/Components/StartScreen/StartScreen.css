@@ -31,7 +31,7 @@
 
   /* Dark/Color/Main Secondary */
 
-  color: #646464;
+  /* color: #646464; */
 }
 
 .DescriptionText {
@@ -53,7 +53,7 @@
 
   text-align: center;
 
-  color: #000000;
+  /* color: #000000; */
 }
 
 .ConnectToWalletButton button {
@@ -66,3 +66,4 @@
   background-color: #f15a29;
   border-radius: 21.5px;
 }
+
